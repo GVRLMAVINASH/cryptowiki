@@ -1,0 +1,11 @@
+.dd {
+  width: 350px;
+  height: 20px;
+}
+button {
+  border: none;
+  height: 25px;
+  background-color: #00ff00;
+  font-weight: bold;
+}
+//dd style class
